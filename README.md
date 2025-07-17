@@ -55,7 +55,7 @@ The solution utilizes modern NLP techniques: PDFs are processed into semantic ch
 ## 3. Getting Started
 **Installation**  
 ```bash
-git clone https://github.com/VIDIT0906/RAG.git
+git clone https://github.com/VIDIT0906/PDF_Chatbot.git
 cd RAG
 pip install -r requirements.txt
 ```
@@ -114,7 +114,8 @@ streamlit run app.py
 ---
 
 ## 6. Demo Link
-(Provide a link or video demo here if available; otherwise, users can run locally with the instructions above.)
+  [![Watch the video](https://img.youtube.com/vi/5Aijc9gZyag/maxresdefault.jpg)](https://youtu.be/5Aijc9gZyag)
+  [Watch this video on YouTube](https://youtu.be/5Aijc9gZyag)
 
 ---
 
