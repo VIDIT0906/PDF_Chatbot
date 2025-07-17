@@ -56,7 +56,7 @@ The solution utilizes modern NLP techniques: PDFs are processed into semantic ch
 **Installation**  
 ```bash
 git clone https://github.com/VIDIT0906/PDF_Chatbot.git
-cd RAG
+cd ./PDF_Chatbot
 pip install -r requirements.txt
 ```
 
