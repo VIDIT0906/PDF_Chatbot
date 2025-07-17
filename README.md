@@ -55,8 +55,8 @@ The solution utilizes modern NLP techniques: PDFs are processed into semantic ch
 ## 3. Getting Started
 **Installation**  
 ```bash
-git clone <your_repo_url>
-cd <project_dir>
+git clone https://github.com/VIDIT0906/RAG.git
+cd RAG
 pip install -r requirements.txt
 ```
 
