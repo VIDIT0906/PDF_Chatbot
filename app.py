@@ -31,7 +31,7 @@ st.sidebar.write(f"**Chunks Indexed:** {num_chunks}")
 if st.sidebar.button("Clear Chat", key="clear_chat"):
     for key in list(st.session_state.keys()):
         del st.session_state[key]
-    st.experimental_rerun()
+    st.rerun()
 
 if st.sidebar.button("Ingest PDFs Now", key="ingest_pdfs"):
     with st.spinner("Ingesting PDF documents ..."):
